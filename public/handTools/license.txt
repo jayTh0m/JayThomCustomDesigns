@@ -1,0 +1,8 @@
+Model Information:
+* title:	Hand Tool Set (Low Poly)
+* source:	https://sketchfab.com/3d-models/hand-tool-set-low-poly-be3a2c8cf854490eb767932577b6f2e7
+* author:	dannpastor (https://sketchfab.com/dannpastor)
+
+Model License:
+* license type:	SKETCHFAB Standard (https://sketchfab.com/licenses)
+* requirements:	Under basic restrictions, use worldwide, on all types of media, commercially or not, and in all types of derivative works
